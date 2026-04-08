@@ -111,7 +111,7 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 * LTspice simulation files
 * Block diagram
 * Waveform results
-* Full project documentation (PDF)
+* Project Documentation (https://dannyjusvin.github.io/Front-End-Power-Protection/Documentation.pdf)
 * Project Log
 * BOM	
 
