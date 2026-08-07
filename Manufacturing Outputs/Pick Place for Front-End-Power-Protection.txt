@@ -1,0 +1,33 @@
+Altium Designer Pick and Place Locations
+D:\Fyles\Danny\Professional\Apps\Altium\Front-End-Power-Protection\Project Outputs for Front-End-Power-Protection\Pick Place for Front-End-Power-Protection.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       06-08-26
+Time:       23:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment        Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                         
+U1         LM393D         TopLayer SO8_STM                 995.112       131.693       180      "Low power dual voltage comparator" 
+R9         10k            TopLayer RC0805N_YAG             2322.661      5.321         90       RC0805FR-0722KL                     
+R8         36k            TopLayer RC0805N_YAG             2420.925      5.321         270      RC0805FR-0722KL                     
+R7         4.7k           TopLayer RC0805N_YAG             2006.319      5.321         90       RC0805FR-0722KL                     
+R6         10k            TopLayer RC0805N_YAG             788.463       -5.368        270      RC0805FR-0722KL                     
+R5         600k           TopLayer RC0805N_YAG             1210.363      -4.528        270      RC0805FR-0722KL                     
+R4         1k             TopLayer RC0805N_YAG             1584.646      196.850       270      RC0805FR-0722KL                     
+R3         10k            TopLayer RC0805N_YAG             1446.850      196.850       90       RC0805FR-0722KL                     
+R2         13k            TopLayer RC0805N_YAG             1702.756      59.055        270      RC0805FR-0722KL                     
+R1         22k            TopLayer RC0805N_YAG             1702.756      196.850       270      RC0805FR-0722KL                     
+Q1         MMBT3906       TopLayer SOT-23                  2057.087      187.008       0        ""                                  
+M1         IRF4905STRLPBF TopLayer TRAN_IRF4905STRLPBF_INF 2391.732      454.209       0        "No Description Available"          
+J2         282814-2       TopLayer CONN2_282814-2          2795.276      395.276       90       "TERMI-BLOK HEADER,ASSY90 2P.5"     
+J1         282814-2       TopLayer CONN2_282814-2          688.976       375.591       270      "TERMI-BLOK HEADER,ASSY90 2P.5"     
+D3         MM1Z4733A      TopLayer SOD-123FL               1269.685      206.693       180      ""                                  
+D2         MMSZ5245B      TopLayer SOD123_DIO              2027.559      344.488       180      MMSZ5245B-7-F                       
+D1         MBRB745        TopLayer D2PAK_VIS               1160.711      645.687       270      "No Description Available"          
+C3         4.7uF          TopLayer CAP_CC1210_YAG          2164.968      4.821         180      CC1210KKX7R9BB475                   
+C2         100pF          TopLayer CAP_X7R_0805_AVX        1072.835      -29.528       180      ""                                  
+C1         100nF          TopLayer CAP_X7R_0805_AVX        925.197       -29.528       180      08053C104KAT2A                      
