@@ -17,10 +17,8 @@
 | R7 | Resistor | 4.7 kΩ | Base resistor (Q1) |
 | R8 | Resistor | 36 kΩ | Gate pull-down |
 | R9 | Resistor | 10 kΩ | Soft-start control |
-
 | C1 | Capacitor | 100 nF | Supply decoupling |
 | C2 | Capacitor | 100 pF | Comparator compensation |
 | C3 | Capacitor | 4.7 µF | Soft-start timing |
-
 | J1 | Connector | Screw Terminal | Input (VIN) |
 | J2 | Connector | Screw Terminal | Output (VOUT) |
