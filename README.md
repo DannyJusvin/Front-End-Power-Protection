@@ -107,6 +107,7 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 
 ## 📁 Repository Contents
 
+* Gerber Files
 * KiCad schematic (PDF)
 * LTspice simulation files
 * Block diagram
@@ -121,6 +122,7 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 
 * LTspice (Simulation)
 * KiCad (Schematic)
+* Altium (Schematic & Pcb Design)
 * draw.io (Block Diagram)
 
 ---
