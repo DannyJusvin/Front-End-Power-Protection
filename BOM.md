@@ -8,7 +8,6 @@
 | D1 | Schottky Diode | MBR745 | Reverse polarity protection |
 | D2 | Zener Diode | 1N4744A (15 V) | Gate-source protection |
 | D3 | Zener Diode | 1N4733A (5.1 V) | Reference voltage |
-
 | R1 | Resistor | 68 kΩ | Voltage divider (upper) |
 | R2 | Resistor | 39 kΩ | Voltage divider (lower) |
 | R3 | Resistor | 10 kΩ | Reference bias (Rref) |
