@@ -18,6 +18,23 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 
 ---
 
+## Design Evolution
+
+The project evolved through three implementation stages:
+
+1. **LTspice — Circuit Design & Verification**
+   - Circuit behavior and protection functions were developed and validated through simulation.
+
+2. **KiCad — THT Prototype Schematic**
+   - The validated circuit was documented as a through-hole-oriented schematic for the initial implementation.
+
+3. **Altium Designer — SMT PCB Implementation**
+   - The design was transitioned to surface-mount components and implemented as a two-layer PCB, with component placement, routing, ground-plane implementation, DRC, and manufacturing-output generation.
+
+The electrical functionality was retained during the transition; the implementation evolved from a simulation/prototype-oriented design toward a more compact, manufacturing-oriented PCB.
+
+---
+
 ## 🎯 Key Features
 
 * ⚡ **Over-Voltage Protection (OVP)**
@@ -107,14 +124,17 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 
 ## 📁 Repository Contents
 
-* Gerber Files
-* KiCad schematic (PDF)
-* LTspice simulation files
-* Block diagram
-* Waveform results
-* Project Documentation (https://dannyjusvin.github.io/Front-End-Power-Protection/Documentation.pdf)
+* Project Documentation
 * Project Log
-* BOM	
+* Block Diagram
+* BOM — THT and SMT component lists
+* LTspice simulation files and waveform results
+* KiCad prototype schematic — THT implementation
+* Altium Designer schematic and PCB — SMT implementation
+* PCB renders and layout images
+* Gerber manufacturing files
+* NC Drill files
+* Pick-and-Place files
 
 ---
 
@@ -122,7 +142,7 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 
 * LTspice (Simulation)
 * KiCad (Schematic)
-* Altium (Schematic & Pcb Design)
+* Altium (Schematic & PCB Design)
 * draw.io (Block Diagram)
 
 ---
