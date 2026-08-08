@@ -149,6 +149,6 @@ The electrical functionality was retained during the transition; the implementat
 
 ## 💡 Author Note
 
-This project was developed to deeply understand **analog power protection design**, including transient behavior, feedback systems, and real-world component limitations.
+This project was developed to deeply understand analog power protection design, including transient behavior, feedback systems, and real-world component limitations, while also gaining hands-on experience with LTspice simulation, KiCad schematic development, Altium Designer PCB design, component libraries, design-rule verification, and manufacturing preparation.
 
 ---
