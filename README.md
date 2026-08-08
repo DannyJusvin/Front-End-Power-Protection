@@ -18,7 +18,7 @@ The circuit was designed, simulated, and validated in **LTspice**, and documente
 
 ---
 
-## Design Evolution
+## 🚀 Design Evolution
 
 The project evolved through three implementation stages:
 
