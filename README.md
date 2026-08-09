@@ -29,9 +29,12 @@ The project evolved through three implementation stages:
    - The validated circuit was documented as a through-hole-oriented schematic for the initial implementation.
 
 3. **Altium Designer — SMT PCB Implementation**
-   - The design was transitioned to surface-mount components and implemented as a two-layer PCB, with component placement, routing, ground-plane implementation, DRC, and manufacturing-output generation.
+   - The design was transitioned to surface-mount components and implemented as a two-layer PCB.
+   - Component libraries and footprints were configured, followed by component placement, manual routing, ground-plane implementation, and DRC verification.
+   - PCB 3D models were integrated and aligned for board-level 3D inspection and design verification.
+   - Gerber, NC Drill, and Pick-and-Place manufacturing outputs were generated.
 
-The electrical functionality was retained during the transition; the implementation evolved from a simulation/prototype-oriented design toward a more compact, manufacturing-oriented PCB.
+The electrical functionality was retained during the transition, while the implementation evolved from a simulation/prototype-oriented design toward a more compact, manufacturing-oriented PCB.
 
 ---
 
